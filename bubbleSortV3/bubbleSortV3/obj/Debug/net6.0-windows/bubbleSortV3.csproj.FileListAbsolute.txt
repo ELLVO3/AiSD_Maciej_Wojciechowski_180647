@@ -1,0 +1,16 @@
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\bin\Debug\net6.0-windows\bubbleSortV3.exe
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\bin\Debug\net6.0-windows\bubbleSortV3.deps.json
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\bin\Debug\net6.0-windows\bubbleSortV3.runtimeconfig.json
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\bin\Debug\net6.0-windows\bubbleSortV3.dll
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\bin\Debug\net6.0-windows\bubbleSortV3.pdb
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\obj\Debug\net6.0-windows\bubbleSortV3.Form1.resources
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\obj\Debug\net6.0-windows\bubbleSortV3.csproj.GenerateResource.cache
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\obj\Debug\net6.0-windows\bubbleSortV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\obj\Debug\net6.0-windows\bubbleSortV3.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\obj\Debug\net6.0-windows\bubbleSortV3.AssemblyInfo.cs
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\obj\Debug\net6.0-windows\bubbleSortV3.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\obj\Debug\net6.0-windows\bubbleSortV3.dll
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\obj\Debug\net6.0-windows\refint\bubbleSortV3.dll
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\obj\Debug\net6.0-windows\bubbleSortV3.pdb
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\obj\Debug\net6.0-windows\bubbleSortV3.genruntimeconfig.cache
+C:\Users\macie\source\repos\bubbleSortV3\bubbleSortV3\obj\Debug\net6.0-windows\ref\bubbleSortV3.dll
