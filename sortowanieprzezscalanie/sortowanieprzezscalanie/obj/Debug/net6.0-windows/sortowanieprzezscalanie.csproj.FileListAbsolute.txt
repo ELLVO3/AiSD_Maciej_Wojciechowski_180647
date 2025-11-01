@@ -1,0 +1,16 @@
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\bin\Debug\net6.0-windows\sortowanieprzezscalanie.exe
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\bin\Debug\net6.0-windows\sortowanieprzezscalanie.deps.json
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\bin\Debug\net6.0-windows\sortowanieprzezscalanie.runtimeconfig.json
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\bin\Debug\net6.0-windows\sortowanieprzezscalanie.dll
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\bin\Debug\net6.0-windows\sortowanieprzezscalanie.pdb
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\obj\Debug\net6.0-windows\sortowanieprzezscalanie.Form1.resources
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\obj\Debug\net6.0-windows\sortowanieprzezscalanie.csproj.GenerateResource.cache
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\obj\Debug\net6.0-windows\sortowanieprzezscalanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\obj\Debug\net6.0-windows\sortowanieprzezscalanie.AssemblyInfoInputs.cache
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\obj\Debug\net6.0-windows\sortowanieprzezscalanie.AssemblyInfo.cs
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\obj\Debug\net6.0-windows\sortowanieprzezscalanie.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\obj\Debug\net6.0-windows\sortowanieprzezscalanie.dll
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\obj\Debug\net6.0-windows\refint\sortowanieprzezscalanie.dll
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\obj\Debug\net6.0-windows\sortowanieprzezscalanie.pdb
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\obj\Debug\net6.0-windows\sortowanieprzezscalanie.genruntimeconfig.cache
+C:\Users\Michał\source\repos\sortowanieprzezscalanie\sortowanieprzezscalanie\obj\Debug\net6.0-windows\ref\sortowanieprzezscalanie.dll
