@@ -1,0 +1,17 @@
+D:\_180647\linkedList\obj\Debug\net6.0-windows\linkedList.csproj.AssemblyReference.cache
+D:\_180647\linkedList\obj\Debug\net6.0-windows\linkedList.Form1.resources
+D:\_180647\linkedList\obj\Debug\net6.0-windows\linkedList.csproj.GenerateResource.cache
+D:\_180647\linkedList\obj\Debug\net6.0-windows\linkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\_180647\linkedList\obj\Debug\net6.0-windows\linkedList.AssemblyInfoInputs.cache
+D:\_180647\linkedList\obj\Debug\net6.0-windows\linkedList.AssemblyInfo.cs
+D:\_180647\linkedList\obj\Debug\net6.0-windows\linkedList.csproj.CoreCompileInputs.cache
+D:\_180647\linkedList\bin\Debug\net6.0-windows\linkedList.exe
+D:\_180647\linkedList\bin\Debug\net6.0-windows\linkedList.deps.json
+D:\_180647\linkedList\bin\Debug\net6.0-windows\linkedList.runtimeconfig.json
+D:\_180647\linkedList\bin\Debug\net6.0-windows\linkedList.dll
+D:\_180647\linkedList\bin\Debug\net6.0-windows\linkedList.pdb
+D:\_180647\linkedList\obj\Debug\net6.0-windows\linkedList.dll
+D:\_180647\linkedList\obj\Debug\net6.0-windows\refint\linkedList.dll
+D:\_180647\linkedList\obj\Debug\net6.0-windows\linkedList.pdb
+D:\_180647\linkedList\obj\Debug\net6.0-windows\linkedList.genruntimeconfig.cache
+D:\_180647\linkedList\obj\Debug\net6.0-windows\ref\linkedList.dll
