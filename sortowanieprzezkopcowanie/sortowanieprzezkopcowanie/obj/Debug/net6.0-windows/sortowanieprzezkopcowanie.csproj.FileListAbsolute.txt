@@ -1,0 +1,16 @@
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\bin\Debug\net6.0-windows\sortowanieprzezkopcowanie.exe
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\bin\Debug\net6.0-windows\sortowanieprzezkopcowanie.deps.json
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\bin\Debug\net6.0-windows\sortowanieprzezkopcowanie.runtimeconfig.json
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\bin\Debug\net6.0-windows\sortowanieprzezkopcowanie.dll
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\bin\Debug\net6.0-windows\sortowanieprzezkopcowanie.pdb
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\obj\Debug\net6.0-windows\sortowanieprzezkopcowanie.Form1.resources
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\obj\Debug\net6.0-windows\sortowanieprzezkopcowanie.csproj.GenerateResource.cache
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\obj\Debug\net6.0-windows\sortowanieprzezkopcowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\obj\Debug\net6.0-windows\sortowanieprzezkopcowanie.AssemblyInfoInputs.cache
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\obj\Debug\net6.0-windows\sortowanieprzezkopcowanie.AssemblyInfo.cs
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\obj\Debug\net6.0-windows\sortowanieprzezkopcowanie.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\obj\Debug\net6.0-windows\sortowanieprzezkopcowanie.dll
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\obj\Debug\net6.0-windows\refint\sortowanieprzezkopcowanie.dll
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\obj\Debug\net6.0-windows\sortowanieprzezkopcowanie.pdb
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\obj\Debug\net6.0-windows\sortowanieprzezkopcowanie.genruntimeconfig.cache
+C:\Users\Michał\source\repos\sortowanieprzezkopcowanie\sortowanieprzezkopcowanie\obj\Debug\net6.0-windows\ref\sortowanieprzezkopcowanie.dll
