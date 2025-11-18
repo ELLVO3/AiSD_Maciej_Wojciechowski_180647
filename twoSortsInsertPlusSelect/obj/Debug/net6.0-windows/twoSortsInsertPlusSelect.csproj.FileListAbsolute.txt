@@ -1,0 +1,17 @@
+D:\_180647\twoSortsInsertPlusSelect\bin\Debug\net6.0-windows\twoSortsInsertPlusSelect.exe
+D:\_180647\twoSortsInsertPlusSelect\bin\Debug\net6.0-windows\twoSortsInsertPlusSelect.deps.json
+D:\_180647\twoSortsInsertPlusSelect\bin\Debug\net6.0-windows\twoSortsInsertPlusSelect.runtimeconfig.json
+D:\_180647\twoSortsInsertPlusSelect\bin\Debug\net6.0-windows\twoSortsInsertPlusSelect.dll
+D:\_180647\twoSortsInsertPlusSelect\bin\Debug\net6.0-windows\twoSortsInsertPlusSelect.pdb
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\twoSortsInsertPlusSelect.csproj.AssemblyReference.cache
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\twoSortsInsertPlusSelect.Form1.resources
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\twoSortsInsertPlusSelect.csproj.GenerateResource.cache
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\twoSortsInsertPlusSelect.GeneratedMSBuildEditorConfig.editorconfig
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\twoSortsInsertPlusSelect.AssemblyInfoInputs.cache
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\twoSortsInsertPlusSelect.AssemblyInfo.cs
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\twoSortsInsertPlusSelect.csproj.CoreCompileInputs.cache
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\twoSortsInsertPlusSelect.dll
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\refint\twoSortsInsertPlusSelect.dll
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\twoSortsInsertPlusSelect.pdb
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\twoSortsInsertPlusSelect.genruntimeconfig.cache
+D:\_180647\twoSortsInsertPlusSelect\obj\Debug\net6.0-windows\ref\twoSortsInsertPlusSelect.dll
