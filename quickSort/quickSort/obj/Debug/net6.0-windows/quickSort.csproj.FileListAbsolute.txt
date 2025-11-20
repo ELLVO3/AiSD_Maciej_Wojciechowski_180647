@@ -1,0 +1,16 @@
+C:\Users\Michał\source\repos\quickSort\quickSort\bin\Debug\net6.0-windows\quickSort.exe
+C:\Users\Michał\source\repos\quickSort\quickSort\bin\Debug\net6.0-windows\quickSort.deps.json
+C:\Users\Michał\source\repos\quickSort\quickSort\bin\Debug\net6.0-windows\quickSort.runtimeconfig.json
+C:\Users\Michał\source\repos\quickSort\quickSort\bin\Debug\net6.0-windows\quickSort.dll
+C:\Users\Michał\source\repos\quickSort\quickSort\bin\Debug\net6.0-windows\quickSort.pdb
+C:\Users\Michał\source\repos\quickSort\quickSort\obj\Debug\net6.0-windows\quickSort.Form1.resources
+C:\Users\Michał\source\repos\quickSort\quickSort\obj\Debug\net6.0-windows\quickSort.csproj.GenerateResource.cache
+C:\Users\Michał\source\repos\quickSort\quickSort\obj\Debug\net6.0-windows\quickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\source\repos\quickSort\quickSort\obj\Debug\net6.0-windows\quickSort.AssemblyInfoInputs.cache
+C:\Users\Michał\source\repos\quickSort\quickSort\obj\Debug\net6.0-windows\quickSort.AssemblyInfo.cs
+C:\Users\Michał\source\repos\quickSort\quickSort\obj\Debug\net6.0-windows\quickSort.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\quickSort\quickSort\obj\Debug\net6.0-windows\quickSort.dll
+C:\Users\Michał\source\repos\quickSort\quickSort\obj\Debug\net6.0-windows\refint\quickSort.dll
+C:\Users\Michał\source\repos\quickSort\quickSort\obj\Debug\net6.0-windows\quickSort.pdb
+C:\Users\Michał\source\repos\quickSort\quickSort\obj\Debug\net6.0-windows\quickSort.genruntimeconfig.cache
+C:\Users\Michał\source\repos\quickSort\quickSort\obj\Debug\net6.0-windows\ref\quickSort.dll
