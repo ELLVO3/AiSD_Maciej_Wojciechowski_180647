@@ -112,5 +112,150 @@ namespace BST
             return usunietaWartosc;
         }
 
+        public void Zig(Wezel x)
+        {
+            var y = x.parent;
+            var b = x.right;
+            var ry = y.parent;
+
+            x.right = y;
+            y.parent = x;
+            y.left = b;
+
+            if (b != null)
+            {
+                b.parent = y;
+            }
+
+            x.parent = ry;
+
+            if (ry == null)
+            {
+                root = x;
+            }
+
+            else 
+            { 
+                if(ry.left == y)
+                {
+                    ry.left = x;
+                }
+                else
+                {
+                    ry.right = x;
+                }
+            }
+        }
+
+        public void Zag(Wezel x)
+        {
+            if(x == null || x.parent == null)
+            {
+                return;
+            }
+
+            var y = x.parent;
+            var b = x.left;
+            var ry = y.parent;
+
+            x.left = y;
+            y.parent = x;
+            y.right = b;
+
+            if(b != null)
+            {
+                b.parent = y;
+            }
+
+            x.parent = y;
+
+            if(ry == null)
+            {
+                root = x;
+            }
+            else
+            {
+                if(ry.left == y)
+                {
+                    ry.left = x;
+                }
+                else
+                {
+                    ry.right = x;
+                }
+            }
+
+        }
+
+        public void ZigZig(Wezel x)
+        {
+            Wezel y = x.parent;
+
+            if(y == null || y.parent == null)
+            {
+                return;
+            }
+
+            Wezel z = y.parent;
+
+            if(z.left == x && y.parent.left == y)
+            {
+                Zig(y);
+                Zig(x);
+            }
+
+            else if(z.right == y && y.right == x)
+            {
+                Zag(y);
+                Zag(x);
+            }
+        }
+
+        public void ZigZag(Wezel x)
+        {
+            Wezel y = x.parent;
+
+            if(y == null || y.parent == null)
+            {
+                return;
+            }
+
+            Wezel z = y.parent;
+
+            if(z.left == y && y.right == x)
+            {
+                Zag(x);
+                Zig(x);
+            }
+
+            else if(z.right == y && y.left == x)
+            {
+                Zig(x);
+                Zag(x);
+            }
+        }
+
+        public Wezel Find(int value)
+        {
+            Wezel current = root;
+            while(current != null)
+            {
+                if(value == current.value)
+                {
+                    return current;
+                }
+
+                if(value < current.value)
+                {
+                    current = current.left;
+                }
+                else
+                {
+                    current = current.right;
+                }
+            }
+            return null;
+        }
+
     }
 }
