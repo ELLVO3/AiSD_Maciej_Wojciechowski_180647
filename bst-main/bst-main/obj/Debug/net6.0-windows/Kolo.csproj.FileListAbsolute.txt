@@ -1,0 +1,16 @@
+C:\Users\Michał\Downloads\bst-main\bst-main\bin\Debug\net6.0-windows\Kolo.exe
+C:\Users\Michał\Downloads\bst-main\bst-main\bin\Debug\net6.0-windows\Kolo.deps.json
+C:\Users\Michał\Downloads\bst-main\bst-main\bin\Debug\net6.0-windows\Kolo.runtimeconfig.json
+C:\Users\Michał\Downloads\bst-main\bst-main\bin\Debug\net6.0-windows\Kolo.dll
+C:\Users\Michał\Downloads\bst-main\bst-main\bin\Debug\net6.0-windows\Kolo.pdb
+C:\Users\Michał\Downloads\bst-main\bst-main\obj\Debug\net6.0-windows\Kolo.Form1.resources
+C:\Users\Michał\Downloads\bst-main\bst-main\obj\Debug\net6.0-windows\Kolo.csproj.GenerateResource.cache
+C:\Users\Michał\Downloads\bst-main\bst-main\obj\Debug\net6.0-windows\Kolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Downloads\bst-main\bst-main\obj\Debug\net6.0-windows\Kolo.AssemblyInfoInputs.cache
+C:\Users\Michał\Downloads\bst-main\bst-main\obj\Debug\net6.0-windows\Kolo.AssemblyInfo.cs
+C:\Users\Michał\Downloads\bst-main\bst-main\obj\Debug\net6.0-windows\Kolo.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Downloads\bst-main\bst-main\obj\Debug\net6.0-windows\Kolo.dll
+C:\Users\Michał\Downloads\bst-main\bst-main\obj\Debug\net6.0-windows\refint\Kolo.dll
+C:\Users\Michał\Downloads\bst-main\bst-main\obj\Debug\net6.0-windows\Kolo.pdb
+C:\Users\Michał\Downloads\bst-main\bst-main\obj\Debug\net6.0-windows\Kolo.genruntimeconfig.cache
+C:\Users\Michał\Downloads\bst-main\bst-main\obj\Debug\net6.0-windows\ref\Kolo.dll
